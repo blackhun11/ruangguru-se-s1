@@ -1,0 +1,3 @@
+England: steak
+Europe: pizza
+Indonesia: rendang

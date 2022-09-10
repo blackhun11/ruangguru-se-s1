@@ -1,8 +1,9 @@
 ### **record all of your action**
-- Candia
-- Febri
-- Farhan
-- Arya
+- Ledina
+- Exna
+- Fredrick
+- Putut
+- Deni
 
 #### Basic
 

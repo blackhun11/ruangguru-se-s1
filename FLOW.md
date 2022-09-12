@@ -1,9 +1,9 @@
 ### **record all of your action**
-- Ledina
-- Exna
-- Fredrick
-- Putut
-- Deni
+- Ikhbar
+- Nico
+- Febi
+- Fionika
+- Retnita
 
 #### Basic
 
